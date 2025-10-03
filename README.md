@@ -1,18 +1,16 @@
 # Awesome Mongoose Plugins [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of plugins for [Mongoose](https://mongoosejs.com/) 🐒.  
+> A curated list of plugins for [Mongoose](https://mongoosejs.com/) 🐒.
 > A collection of extensions to make your life with MongoDB easier.
 
 ---
 
 ## 📑 Contents
-- [General Utilities](#general-utilities)  
-- [Validation & Security](#validation--security)  
-- [Pagination & Query](#pagination--query)  
-- [Slug & SEO](#slug--seo)  
-- [Internationalization (i18n)](#internationalization-i18n)  
-- [Timestamps & Audit](#timestamps--audit)  
-- [Miscellaneous](#miscellaneous)  
+- [General Utilities](#general-utilities)
+- [Validation & Security](#validation--security)
+- [Pagination & Query](#pagination--query)
+- [Timestamps & Audit](#timestamps--audit)
+- [Miscellaneous](#miscellaneous)
 
 ---
 
@@ -33,25 +31,11 @@
 ## 📊 Pagination & Query
 - [mongoose-paginate-v2](https://github.com/aravindnc/mongoose-paginate-v2) – Advanced pagination plugin for queries.
 - [mongoose-aggregate-paginate-v2](https://github.com/webgangster/mongoose-aggregate-paginate-v2) – Pagination for aggregation queries.
-- [mongoose-query](https://github.com/aheckmann/mongoose-query) – Simplified query builder.
-
----
-
-## 🔗 Slug & SEO
-- [mongoose-slug-generator](https://github.com/rammyblog/mongoose-slug-generator) – Generates unique slugs from string fields.
-- [mongoose-slug-plugin](https://github.com/wolfeidau/mongoose-slug-plugin) – Supports multiple, historical, and multilingual slugs.
-
----
-
-## 🌍 Internationalization (i18n)
-- [mongoose-intl](https://github.com/ladjs/mongoose-intl) – Manage multilingual fields with fallback.
-- [mongoose-i18n-localize](https://github.com/strongloop-community/mongoose-i18n-localize) – Simple localization for string fields.
 
 ---
 
 ## ⏱ Timestamps & Audit
 - [mongoose-timestamp](https://github.com/drudge/mongoose-timestamp) – Automatically adds `createdAt` and `updatedAt`.
-- [mongoose-audit](https://github.com/lykmapipo/mongoose-audit) – Document change tracking.
 
 ---
 
