@@ -32,8 +32,7 @@
 ## 🧰 Developer Tools
 | Plugin | Stars | Downloads | Last commit | Description |
 |--------|-------|-----------|-------------|-------------|
-| [swagger-mongoose](https://github.com/adityamukho/swagger-mongoose) | ![stars](https://img.shields.io/github/stars/adityamukho/swagger-mongoose?style=flat&label=%20) | ![downloads](https://img.shields.io/npm/dm/swagger-mongoose?style=flat&label=%20) | ![last-commit](https://img.shields.io/github/last-commit/adityamukho/swagger-mongoose?style=flat&label=%20) | Generates Mongoose models and schemas from Swagger/OpenAPI definitions. |
-| [mongoose-tsgen](https://github.com/Soluto/mongoose-tsgen) | ![stars](https://img.shields.io/github/stars/Soluto/mongoose-tsgen?style=flat&label=%20) | ![downloads](https://img.shields.io/npm/dm/mongoose-tsgen?style=flat&label=%20) | ![last-commit](https://img.shields.io/github/last-commit/Soluto/mongoose-tsgen?style=flat&label=%20) | Automatically generates TypeScript definitions (`.d.ts`) from your Mongoose schemas. |
+| [swagger-mongoose](https://github.com/simonguest/swagger-mongoose) | ![stars](https://img.shields.io/github/stars/simonguest/swagger-mongoose?style=flat&label=%20) | ![downloads](https://img.shields.io/npm/dm/swagger-mongoose?style=flat&label=%20) | ![last-commit](https://img.shields.io/github/last-commit/simonguest/swagger-mongoose?style=flat&label=%20) | Generates Mongoose models and schemas from Swagger/OpenAPI definitions. |
 
 ---
 
@@ -44,7 +43,7 @@
 | [mongoose-validator](https://github.com/leepowellcouk/mongoose-validator) | ![stars](https://img.shields.io/github/stars/leepowellcouk/mongoose-validator?style=flat&label=%20) | ![downloads](https://img.shields.io/npm/dm/mongoose-validator?style=flat&label=%20) | ![last-commit](https://img.shields.io/github/last-commit/leepowellcouk/mongoose-validator?style=flat&label=%20) | Wrapper for `validator.js` to use as Mongoose validators. |
 | [mongoose-beautiful-unique-validation](https://github.com/matteodelabre/mongoose-beautiful-unique-validation) | ![stars](https://img.shields.io/github/stars/matteodelabre/mongoose-beautiful-unique-validation?style=flat&label=%20) | ![downloads](https://img.shields.io/npm/dm/mongoose-beautiful-unique-validation?style=flat&label=%20) | ![last-commit](https://img.shields.io/github/last-commit/matteodelabre/mongoose-beautiful-unique-validation?style=flat&label=%20) | Enhances MongoDB unique constraint errors with cleaner, user-friendly validation messages. |
 | [mongoose-hidden](https://github.com/mblarsen/mongoose-hidden) | ![stars](https://img.shields.io/github/stars/mblarsen/mongoose-hidden?style=flat&label=%20) | ![downloads](https://img.shields.io/npm/dm/mongoose-hidden?style=flat&label=%20) | ![last-commit](https://img.shields.io/github/last-commit/mblarsen/mongoose-hidden?style=flat&label=%20) | Hides sensitive fields (like passwords or tokens) from `JSON.stringify()`. |
-| [mongoose-acl](https://github.com/lykmapipo/mongoose-acl) | ![stars](https://img.shields.io/github/stars/lykmapipo/mongoose-acl?style=flat&label=%20) | ![downloads](https://img.shields.io/npm/dm/mongoose-acl?style=flat&label=%20) | ![last-commit](https://img.shields.io/github/last-commit/lykmapipo/mongoose-acl?style=flat&label=%20) | Adds access control lists (ACL) to Mongoose models, enabling fine-grained permissions. |
+| [mongoose-acl](https://github.com/lykmapipo/mongoose-acl) | ![stars](https://img.shields.io/github/stars/scttnlsn/mongoose-acl?style=flat&label=%20) | ![downloads](https://img.shields.io/npm/dm/mongoose-acl?style=flat&label=%20) | ![last-commit](https://img.shields.io/github/last-commit/scttnlsn/mongoose-acl?style=flat&label=%20) | Adds access control lists (ACL) to Mongoose models, enabling fine-grained permissions. |
 
 ---
 
