@@ -6,16 +6,16 @@
 ---
 
 ## 📑 Contents
-- [General Utilities](#general-utilities)
-- [Developer Tools](#developer-tools)
-- [Validation & Security](#validation--security)
-- [Caching & Performance](#caching--performance)
-- [Pagination & Query](#pagination--query)
-- [Internationalization (i18n)](#internationalization-i18n)
-- [Tree & Hierarchical Data](#tree--hierarchical-data)
-- [Timestamps & Audit](#timestamps--audit)
-- [File & Media Handling](#file--media-handling)
-- [Miscellaneous](#miscellaneous)
+- [General Utilities](#-general-utilities)
+- [Developer Tools](#-developer-tools)
+- [Validation & Security](#-validation--security)
+- [Caching & Performance](#-caching--performance)
+- [Pagination & Query](#-pagination--query)
+- [Internationalization (i18n)](#-internationalization-i18n)
+- [Tree & Hierarchical Data](#-tree--hierarchical-data)
+- [Timestamps & Audit](#-timestamps--audit)
+- [File & Media Handling](#-file--media-handling)
+- [Miscellaneous](#-miscellaneous)
 
 ---
 
@@ -23,7 +23,7 @@
 | Plugin | Stars | Downloads | Last commit | Description |
 |--------|-------|-----------|-------------|-------------|
 | [mongoose-autopopulate](https://github.com/mongodb-js/mongoose-autopopulate) | ![stars](https://img.shields.io/github/stars/mongodb-js/mongoose-autopopulate?style=flat&label=%20) | ![downloads](https://img.shields.io/npm/dm/mongoose-autopopulate?style=flat&label=%20) | ![last-commit](https://img.shields.io/github/last-commit/mongodb-js/mongoose-autopopulate?style=flat&label=%20) | Automatically populates `ref` fields without calling `.populate()`. |
-| [mongoose-relationship](https://github.com/jaumard/mongoose-relationship) | ![stars](https://img.shields.io/github/stars/jaumard/mongoose-relationship?style=flat&label=%20) | ![downloads](https://img.shields.io/npm/dm/mongoose-relationship?style=flat&label=%20) | ![last-commit](https://img.shields.io/github/last-commit/jaumard/mongoose-relationship?style=flat&label=%20) | Manages bi-directional document references, keeping parent and child relationships automatically in sync. |
+| [mongoose-relationship](https://github.com/sabymike/mongoose-relationship) | ![stars](https://img.shields.io/github/stars/sabymike/mongoose-relationship?style=flat&label=%20) | ![downloads](https://img.shields.io/npm/dm/mongoose-relationship?style=flat&label=%20) | ![last-commit](https://img.shields.io/github/last-commit/sabymike/mongoose-relationship?style=flat&label=%20) | Manages bi-directional document references, keeping parent and child relationships automatically in sync. |
 | [mongoose-lean-virtuals](https://github.com/vkarpov15/mongoose-lean-virtuals) | ![stars](https://img.shields.io/github/stars/vkarpov15/mongoose-lean-virtuals?style=flat&label=%20) | ![downloads](https://img.shields.io/npm/dm/mongoose-lean-virtuals?style=flat&label=%20) | ![last-commit](https://img.shields.io/github/last-commit/vkarpov15/mongoose-lean-virtuals?style=flat&label=%20) | Adds support for virtuals in `.lean()` queries. |
 | [mongoose-lean-getters](https://github.com/vkarpov15/mongoose-lean-getters) | ![stars](https://img.shields.io/github/stars/vkarpov15/mongoose-lean-getters?style=flat&label=%20) | ![downloads](https://img.shields.io/npm/dm/mongoose-lean-getters?style=flat&label=%20) | ![last-commit](https://img.shields.io/github/last-commit/vkarpov15/mongoose-lean-getters?style=flat&label=%20) | Applies getters to `.lean()` query results. |
 
