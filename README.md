@@ -65,24 +65,23 @@
 ## 🌍 Internationalization (i18n)
 | Plugin | Stars | Downloads | Last commit | Description |
 |--------|-------|-----------|-------------|-------------|
-| [mongoose-intl](https://github.com/ladjs/mongoose-intl) | ![stars](https://img.shields.io/github/stars/ladjs/mongoose-intl?style=flat&label=%20) | ![downloads](https://img.shields.io/npm/dm/mongoose-intl?style=flat&label=%20) | ![last-commit](https://img.shields.io/github/last-commit/ladjs/mongoose-intl?style=flat&label=%20) | Adds multilingual field support to Mongoose schemas with locale fallback and helpers. |
+| [mongoose-intl](https://github.com/ladjs/mongoose-intl) | ![stars](https://img.shields.io/github/stars/alexsk/mongoose-intl?style=flat&label=%20) | ![downloads](https://img.shields.io/npm/dm/mongoose-intl?style=flat&label=%20) | ![last-commit](https://img.shields.io/github/last-commit/alexsk/mongoose-intl?style=flat&label=%20) | Adds multilingual field support to Mongoose schemas with locale fallback and helpers. |
 
 ---
 
 ## 🌳 Tree & Hierarchical Data
 | Plugin | Stars | Downloads | Last commit | Description |
 |--------|-------|-----------|-------------|-------------|
-| [mongoose-materialized](https://github.com/lykmapipo/mongoose-materialized) | ![stars](https://img.shields.io/github/stars/lykmapipo/mongoose-materialized?style=flat&label=%20) | ![downloads](https://img.shields.io/npm/dm/mongoose-materialized?style=flat&label=%20) | ![last-commit](https://img.shields.io/github/last-commit/lykmapipo/mongoose-materialized?style=flat&label=%20) | Adds support for hierarchical data using the materialized path pattern. |
-| [mongoose-nested-set](https://github.com/joegoldbeck/mongoose-nested-set) | ![stars](https://img.shields.io/github/stars/joegoldbeck/mongoose-nested-set?style=flat&label=%20) | ![downloads](https://img.shields.io/npm/dm/mongoose-nested-set?style=flat&label=%20) | ![last-commit](https://img.shields.io/github/last-commit/joegoldbeck/mongoose-nested-set?style=flat&label=%20) | Implements the Nested Set pattern for hierarchical data. |
-
+| [mongoose-nested-set](https://github.com/joegoldbeck/mongoose-nested-set) | ![stars](https://img.shields.io/github/stars/groupdock/mongoose-nested-set?style=flat&label=%20) | ![downloads](https://img.shields.io/npm/dm/mongoose-nested-set?style=flat&label=%20) | ![last-commit](https://img.shields.io/github/last-commit/groupdock/mongoose-nested-set?style=flat&label=%20) | Implements the Nested Set pattern for hierarchical data. |
+| [mongoose-materialized](https://github.com/lykmapipo/mongoose-materialized) | ![stars](https://img.shields.io/github/stars/janez89/mongoose-materialized?style=flat&label=%20) | ![downloads](https://img.shields.io/npm/dm/mongoose-materialized?style=flat&label=%20) | ![last-commit](https://img.shields.io/github/last-commit/janez89/mongoose-materialized?style=flat&label=%20) | Adds support for hierarchical data using the materialized path pattern. |
 ---
 
 ## ⏱ Timestamps & Audit
 | Plugin | Stars | Downloads | Last commit | Description |
 |--------|-------|-----------|-------------|-------------|
 | [mongoose-timestamp](https://github.com/drudge/mongoose-timestamp) | ![stars](https://img.shields.io/github/stars/drudge/mongoose-timestamp?style=flat&label=%20) | ![downloads](https://img.shields.io/npm/dm/mongoose-timestamp?style=flat&label=%20) | ![last-commit](https://img.shields.io/github/last-commit/drudge/mongoose-timestamp?style=flat&label=%20) | Automatically adds `createdAt` and `updatedAt`. |
-| [mongoose-version](https://github.com/dsanel/mongoose-version) | ![stars](https://img.shields.io/github/stars/dsanel/mongoose-version?style=flat&label=%20) | ![downloads](https://img.shields.io/npm/dm/mongoose-version?style=flat&label=%20) | ![last-commit](https://img.shields.io/github/last-commit/dsanel/mongoose-version?style=flat&label=%20) | Automatically maintains document version history. |
-| [mongoose-diff-history](https://github.com/victorquinn/mongoose-diff-history) | ![stars](https://img.shields.io/github/stars/victorquinn/mongoose-diff-history?style=flat&label=%20) | ![downloads](https://img.shields.io/npm/dm/mongoose-diff-history?style=flat&label=%20) | ![last-commit](https://img.shields.io/github/last-commit/victorquinn/mongoose-diff-history?style=flat&label=%20) | Tracks document diffs between versions for lightweight auditing. |
+| [mongoose-version](https://github.com/dsanel/mongoose-version) | ![stars](https://img.shields.io/github/stars/saintedlama/mongoose-version?style=flat&label=%20) | ![downloads](https://img.shields.io/npm/dm/mongoose-version?style=flat&label=%20) | ![last-commit](https://img.shields.io/github/last-commit/saintedlama/mongoose-version?style=flat&label=%20) | Automatically maintains document version history. |
+| [mongoose-diff-history](https://github.com/victorquinn/mongoose-diff-history) | ![stars](https://img.shields.io/github/stars/mimani/mongoose-diff-history?style=flat&label=%20) | ![downloads](https://img.shields.io/npm/dm/mongoose-diff-history?style=flat&label=%20) | ![last-commit](https://img.shields.io/github/last-commit/mimani/mongoose-diff-history?style=flat&label=%20) | Tracks document diffs between versions for lightweight auditing. |
 
 ---
 
@@ -97,10 +96,10 @@
 | Plugin | Stars | Downloads | Last commit | Description |
 |--------|-------|-----------|-------------|-------------|
 | [mongoose-delete](https://github.com/dsanel/mongoose-delete) | ![stars](https://img.shields.io/github/stars/dsanel/mongoose-delete?style=flat&label=%20) | ![downloads](https://img.shields.io/npm/dm/mongoose-delete?style=flat&label=%20) | ![last-commit](https://img.shields.io/github/last-commit/dsanel/mongoose-delete?style=flat&label=%20) | Soft delete with restore and query helpers. |
-| [mongoose-encryption](https://github.com/joegoldbeck/mongoose-encryption) | ![stars](https://img.shields.io/github/stars/joegoldbeck/mongoose-encryption?style=flat&label=%20) | ![downloads](https://img.shields.io/npm/dm/mongoose-encryption?style=flat&label=%20) | ![last-commit](https://img.shields.io/github/last-commit/joegoldbeck/mongoose-encryption?style=flat&label=%20) | Transparent field-level encryption. |
-| [mongoose-fuzzy-searching](https://github.com/VassilisPallas/mongoose-fuzzy-searching) | ![stars](https://img.shields.io/github/stars/VassilisPallas/mongoose-fuzzy-searching?style=flat&label=%20) | ![downloads](https://img.shields.io/npm/dm/mongoose-fuzzy-searching?style=flat&label=%20) | ![last-commit](https://img.shields.io/github/last-commit/VassilisPallas/mongoose-fuzzy-searching?style=flat&label=%20) | Fuzzy full-text search across multiple fields. |
 | [mongoose-sequence](https://github.com/ramiel/mongoose-sequence) | ![stars](https://img.shields.io/github/stars/ramiel/mongoose-sequence?style=flat&label=%20) | ![downloads](https://img.shields.io/npm/dm/mongoose-sequence?style=flat&label=%20) | ![last-commit](https://img.shields.io/github/last-commit/ramiel/mongoose-sequence?style=flat&label=%20) | Auto-increment fields. |
+| [mongoose-encryption](https://github.com/joegoldbeck/mongoose-encryption) | ![stars](https://img.shields.io/github/stars/joegoldbeck/mongoose-encryption?style=flat&label=%20) | ![downloads](https://img.shields.io/npm/dm/mongoose-encryption?style=flat&label=%20) | ![last-commit](https://img.shields.io/github/last-commit/joegoldbeck/mongoose-encryption?style=flat&label=%20) | Transparent field-level encryption. |
 | [mongoose-history](https://github.com/nassor/mongoose-history) | ![stars](https://img.shields.io/github/stars/nassor/mongoose-history?style=flat&label=%20) | ![downloads](https://img.shields.io/npm/dm/mongoose-history?style=flat&label=%20) | ![last-commit](https://img.shields.io/github/last-commit/nassor/mongoose-history?style=flat&label=%20) | Document versioning and history. |
+| [mongoose-fuzzy-searching](https://github.com/VassilisPallas/mongoose-fuzzy-searching) | ![stars](https://img.shields.io/github/stars/VassilisPallas/mongoose-fuzzy-searching?style=flat&label=%20) | ![downloads](https://img.shields.io/npm/dm/mongoose-fuzzy-searching?style=flat&label=%20) | ![last-commit](https://img.shields.io/github/last-commit/VassilisPallas/mongoose-fuzzy-searching?style=flat&label=%20) | Fuzzy full-text search across multiple fields. |
 
 ---
 
